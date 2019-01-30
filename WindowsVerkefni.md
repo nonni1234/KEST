@@ -10,7 +10,7 @@ Svar: Svo tölvan er alltaf með nýjustu öryggiseiginleika
 ### Step 3, liður b.
 
 #### What type File System is used on the NEW VOLUME (I:)?
-Svar: 
+Svar: FAT32
 #### How much Free Space is shown?
 Svar: 
 #### What tabs are shown?
