@@ -5,7 +5,7 @@
 ### Reflection spurning í lok kaflans.
 
 #### Why is setting up automatic updates important?
-Svar: 
+Svar: Svo tölvan er alltaf með nýjustu öryggiseiginleika
 ## 5.2.4.7 Create a Partition in Windows 10
 ### Step 3, liður b.
 
