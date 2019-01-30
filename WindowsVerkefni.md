@@ -12,7 +12,7 @@ Svar: Svo tölvan er alltaf með nýjustu öryggiseiginleika
 #### What type File System is used on the NEW VOLUME (I:)?
 Svar: FAT32
 #### How much Free Space is shown?
-Svar: 
+Svar: 0.99 gigabytes í 'NEW VOLUME'
 #### What tabs are shown?
 Svar: 
 #### List the tabs found in the NEW VOLUME (I:) Properties window.
