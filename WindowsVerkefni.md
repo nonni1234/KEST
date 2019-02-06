@@ -28,7 +28,7 @@ Svar: NTFS
 #### What are the tabs in the ITE (I:) Properties window?
 Svar: General, Tools, Hardware, Sharing, Security, ReadyBoost, Previous versions, Quota, Customize
 #### When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS?
-Svar: 
+Svar: Security, Quota
 ### Step 7, liður b.
 
 #### What are the tabs in the ITE Test Document Properties window?
