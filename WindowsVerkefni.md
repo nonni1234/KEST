@@ -56,47 +56,48 @@ Svar: Running og Stopped
 ### Step 3, liður a.
 
 #### How many threads are running?
-Svar: 
+Svar: 1860
 #### How many processes are running?
-Svar: 
+Svar: 179
 #### What is the speed of the CPU?
-Svar: 
+Svar: 1.6 GHz
 ### Step 3, liður b.
 
 #### What is the total physical memory (MB)?
-Svar: 
+Svar: 8192 mb, 8gb
 #### What is the available physical memory (MB)?
-Svar: 
+Svar: 4096 mb, 4 gb
 #### How much physical memory (MB) is being used by the computer?
-Svar: 
+Svar: 3789 mb eða 3.7 gb
 ### Step 3, liður c.
 
 #### What is the link speed?
-Svar: 
+Svar: 100mbps
 #### What is the IPv4 address of the PC?
-Svar: 
+Svar: 10.220.216.61
 ### Step 4, liður b.
 
 #### What effect does this have on the columns?
-Svar: 
+Svar: Það sorterar processees eftir hversu mikið memory þeir nota
 ### Step 4, liður c.
 
 #### What affect does this have on the Memory column?
-Svar: 
+Svar: Sýnir hversu mörg prósent af öllu raminu er notað af þessu forriti í stað fyrir fjölda mb
 #### How could this be useful?
-Svar: 
+Svar: Sniðugt til að sjá hversu stóran hluta af öllu raminu forritið er að nota
 ### Step 4, liður e.
 
 #### The listed processes are divided by categories. What categories are listed?
-Svar: 
+Svar: Apps og Background processes
 ### Step 4, liður f.
 
 #### What is the result of this action?
-Svar: 
+Svar: Forritið lokast
 ### Reflection spurning í lok kaflans.
 
 #### Why is it important for an administrator to understand how to work within the Task Manager?
-Svar: 
+Svar: Task managerinn er mjög þægileg leið til að fylgjast með hraða örgjövans, hve mikið minni
+þú ert með og margt fleira
 ## 6.1.1.9 Install Third-Party Software in Windows 10
 
 Sækið nýjustu útgáfu PacketTracer á netacad síðuna.
