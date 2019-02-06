@@ -48,7 +48,7 @@ Svar: Ekkert gerðist
 ### Step 1, liður f.
 
 #### What happened?
-Svar: 
+Svar: Forritið lokaðist
 ### Step 2, liður b.
 
 #### What statuses are listed?
