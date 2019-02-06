@@ -38,7 +38,7 @@ Svar: Security
 ### Reflection spurning í lok kaflans.
  
 #### Why is there an additional Security tab in the properties window of documents stored on an NTFS volume?
-Svar: 
+Svar: Þegar NFTS er notað bætist við flipinn "Security" af því að NFTS býður upp á fleiri öryggistengda möguleika.
 ## 6.1.1.5 Task Manager in Windows 10
 
 ### Step 1, liður e.
