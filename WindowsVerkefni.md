@@ -14,7 +14,7 @@ Svar: FAT32
 #### How much Free Space is shown?
 Svar: 0.99 gigabytes í 'NEW VOLUME'
 #### What tabs are shown?
-Svar: 
+Svar: Ready Boost, Previous Versions, Customize, General, Tools, Hardware, Sharing
 #### List the tabs found in the NEW VOLUME (I:) Properties window.
 Svar: 
 ### Step 4, liður c.
