@@ -20,7 +20,7 @@ Svar: Sama og spurning 4
 ### Step 4, liður c.
 
 #### What tabs are listed in the ITE Test Document Properties window?
-Svar: 
+Svar: General, Details, Previous Versions
 ### Step 6, liður b.
 
 #### What type of File System is used for the ITE (I:) drive?
