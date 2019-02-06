@@ -24,7 +24,7 @@ Svar: General, Details, Previous Versions
 ### Step 6, liður b.
 
 #### What type of File System is used for the ITE (I:) drive?
-Svar: 
+Svar: NTFS
 #### What are the tabs in the ITE (I:) Properties window?
 Svar: 
 #### When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS?
