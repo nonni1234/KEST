@@ -26,7 +26,7 @@ Svar: General, Details, Previous Versions
 #### What type of File System is used for the ITE (I:) drive?
 Svar: NTFS
 #### What are the tabs in the ITE (I:) Properties window?
-Svar: 
+Svar: General, Tools, Hardware, Sharing, Security, ReadyBoost, Previous versions, Quota, Customize
 #### When the volume was FAT32, there were six tabs. What are the names of the new tabs that were added after the volume was converted to NTFS?
 Svar: 
 ### Step 7, liður b.
