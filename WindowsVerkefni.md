@@ -52,7 +52,7 @@ Svar: Forritið lokaðist
 ### Step 2, liður b.
 
 #### What statuses are listed?
-Svar: 
+Svar: Running og Stopped
 ### Step 3, liður a.
 
 #### How many threads are running?
