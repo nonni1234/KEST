@@ -44,7 +44,7 @@ Svar: Þegar NFTS er notað bætist við flipinn "Security" af því að NFTS b�
 ### Step 1, liður e.
 
 #### What action took place on the desktop?
-Svar: Glugginn lokaðist.
+Svar: Ekkert gerðist
 ### Step 1, liður f.
 
 #### What happened?
