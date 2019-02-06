@@ -32,7 +32,7 @@ Svar: Security, Quota
 ### Step 7, liður b.
 
 #### What are the tabs in the ITE Test Document Properties window?
-Svar: 
+Svar: General, Details, Previous Versions, Security
 #### When the volume was FAT32, there were three tabs. What is the name of the new tab that was added after the volume was converted to NTFS?
 Svar: 
 ### Reflection spurning í lok kaflans.
