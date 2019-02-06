@@ -16,7 +16,7 @@ Svar: 0.99 gigabytes í 'NEW VOLUME'
 #### What tabs are shown?
 Svar: Ready Boost, Previous Versions, Customize, General, Tools, Hardware, Sharing
 #### List the tabs found in the NEW VOLUME (I:) Properties window.
-Svar: 
+Svar: Sama og spurning 4
 ### Step 4, liður c.
 
 #### What tabs are listed in the ITE Test Document Properties window?
