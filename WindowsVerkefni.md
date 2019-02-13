@@ -145,49 +145,49 @@ Svar: To prevent people from seeing searches you don't want to others to see
 ### Step 1, liður d.
 
 #### What is the current size of the virtual memory (paging file)?
-Svar: 
+Svar: 1920mb
 ### Step 2, liður b.
 
 #### What Drive [Volume Label] contains the paging file?
-Svar: 
+Svar: I: (ITE)
 ### Step 2, liður c.
 
 #### What is the recommended paging file size for all drives?
-Svar: 
+Svar: 1879mb
 ### Step 3, liður c.
 
 #### What Drive [Volume Label] contains the paging file?
-Svar: 
+Svar: I:
 ### Reflection spurning í lok kaflans.
 
 #### Why would you ever change the default virtual memory page file settings in Windows?
-Svar: 
+Svar: Til ad bua til meira eda minna plass eftir því sem þú vilt
 ## 6.1.2.14 Device Manager in Windows 10
 
 ### Step 1, liður c.
 
 #### What information is listed in the Device Manager window? 
-Svar: 
+Svar: Öll tengd tæki eru sýnd
 #### Why would you use it?
-Svar: 
+Svar: Það getur nýst manni ef maður þarf að stilla tæki tengd tölvunni 
 ### Step 2, liður c.
 
 #### What additional information does Driver Details provide?
-Svar: 
+Svar: Hvar skrá driversins er geymd, sá sem gerði driverinn, útgáfa driversins, hver á höfundarréttinn og "digital signer"
 ### Step 2, liður d.
 
 #### What two options do you have for updating the driver?
-Svar: 
+Svar: search automatically for updated driver software, browse my computer for software
 ### Step 2, liður e.
 
 #### What does the Roll Back Driver button do?
-Svar: 
+Svar: If update doesn't work, roll back to previous driver version
 #### Why is it grayed out in the example?
-Svar: 
+Svar: Cause it hasn't been updated yet
 ### Reflection spurning í lok kaflans.
 
 #### Why would updating the video driver in this way be important to know?
-Svar: 
+Svar: Cause it's easy and simple to do
 ## 6.1.2.16 Region and Language Options in Windows 10
 
 ### Step 1, liður c.
