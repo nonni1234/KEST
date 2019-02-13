@@ -105,23 +105,23 @@ Sækið nýjustu útgáfu PacketTracer á netacad síðuna.
 ### Step 2, liður c.
 
 #### What is the default installation location for Packet Tracer?
-Svar: 
+Svar: C:\Program files
 ### Reflection spurning í lok kaflans.
 
 #### Why does Microsoft recommend using Uninstall or change a program to remove an installed application?
-Svar: 
+Svar: Því það tekur í burtu öll gögn um forritið og er öruggasta og fljótasta leiðin til að eyða
 ## 6.1.2.3 Create User Accounts in Windows 10
 
 ### Step 3, liður a.
 
 #### What information is listed for the new account?
-Svar: 
+Svar: Notendanafnið og týpa
 ### Reflection spurningar í lok kaflans.
 Svar: 
 #### Why is it important to protect all accounts with strong passwords?
-Svar: 
+Svar: Til að halda öllum upplýsingum öruggum
 #### Why would you create a user with Standard privileges?
-Svar: 
+Svar: T.d. fyrir vini eða fjölskyldumeðlimi
 ## 6.1.2.5 Configure Browser Settings in Windows 10
 
 ### Step 1, liður a.
