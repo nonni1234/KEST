@@ -127,19 +127,19 @@ Svar: T.d. fyrir vini eða fjölskyldumeðlimi
 ### Step 1, liður a.
 
 #### Which browser was used to open the web page?
-Svar: 
+Svar: Microsoft Edge
 ### Step 1, liður b.
 
 #### Which version of Microsoft Edge is installed on your computer?
-Svar: 
+Svar: Microsoft Edge 42.17134.1.0
 ### Step 2, liður b.
 
 #### Which options are available for deleting browsing history?
-Svar: 
+Svar: Browsing History, Cookies and save website data, cached data and files, Tabs i´ve set aside or recently closed, Download History, Form Data, Passwords, Media Licenses, Website permissions
 ### Reflection spurning í lok kaflans.
 
 #### Why would you want to clear cached data, cookies, or browsing history?
-Svar: 
+Svar: To prevent people from seeing searches you don't want to others to see
 ## 6.1.2.12 Manage Virtual Memory in Windows 10
 
 ### Step 1, liður d.
