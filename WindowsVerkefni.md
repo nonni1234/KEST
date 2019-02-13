@@ -193,15 +193,15 @@ Svar: Cause it's easy and simple to do
 ### Step 1, liður c.
 
 #### What regional format is being used?
-Svar: 
+Svar: English (United Kingdom)
 ### Step 1, liður d.
 
 #### What are the tabs that can be customized?
-Svar: 
+Svar: Short date, long date, short time, long time and first day of the week
 ### Reflection spurning í lok kaflans.
 
 #### Why would someone wish to change the input language of the operating system?
-Svar: 
+Svar: Ef einhver er með lyklaborð á öðru tungumáli eða þarf að skrifa með öðru
 ## 6.1.3.7 Monitor and Manage System Resources in Windows 10
 
 ### Step 1, liður e.
