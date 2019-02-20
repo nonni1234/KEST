@@ -251,7 +251,7 @@ Svar:
 ### Ekki gera neitt í þessu verkefni nema að svara eftirfarandi spurningu:
 
 #### Hvað gerir defragmenter, hversu oft ætti að nota hann og í hvaða tilfellum ætti ekki að nota hann?
-Svar: 
+Svar: Það optimizar hard drifin þín og hjálpar þeim að runna hraðar, þú ættir að nota þetta eins oft og þér finnst nauðsynlegt en ekki nota hann ef þú ert með SSD
 ## 6.1.4.4 Manage System Files in Windows 10
 
 ### Step 2, liður c.
