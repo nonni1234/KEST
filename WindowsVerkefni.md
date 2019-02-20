@@ -207,25 +207,25 @@ Svar: Ef einhver er með lyklaborð á öðru tungumáli eða þarf að skrifa m
 ### Step 1, liður e.
 
 #### Can Windows Defender check for updates? 
-Svar: 
+Svar: Yes
 ### Step 1, liður f.
 
 #### What is the status of the service?
-Svar: 
+Svar: Running
 ### Step 1, liður m.
 
 #### Can Windows Defender be started?
-Svar: 
+Svar: Yes
 ### Step 1, liður n.
 
 #### Can Virus Protection be started?
-Svar: 
+Svar: Yes
 #### What must be done so Windows Defender can run?
-Svar: 
+Svar: Right click Start > Control Panel > System Security > Security And maintenence in the Security > Virus Protection (Important) section click turn on now
 ### Step 1, liður w.
 
 #### Look below the General tab and explain what has happened to the Windows Defender service?
-Svar: 
+Svar: Geir leyfði okkur að hoppa yfir þennan kafla
 ### Step 2, liður g.
 
 #### What does the status column of the Services Console indicate for the BFE service?
