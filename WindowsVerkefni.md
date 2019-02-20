@@ -257,79 +257,100 @@ Svar: Það optimizar hard drifin þín og hjálpar þeim að runna hraðar, þ�
 ### Step 2, liður c.
 
 #### Processor: 
-Svar: 
+Svar: Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz, 3600 Mhz, 2 Core(s), 4 Logical Processor(s)
+
 #### BIOS Version/Date: 
-Svar: 
+Svar: American Megatrends Inc. P2.30, 3/7/2018
+
 #### Total Physical Memory:
-Svar: 
+Svar: 7.68 GB
+
 
 ### Step 2, liður d.
 
 #### Under the Hardware Resources heading, locate and list the following: DMA channels and the device using the resources.
-Svar: 
+Svar: channel 3 - ECP printer port and channel 4 - direct memory access controller
 #### Under the Components > Display heading, locate and list the following: Resolution, Driver Version, and Bits/Pixel
-Svar: 
+Svar: resolution - 1920 x 1080, driver version - 20.19.15.4531 and bits/pixel - 32
 #### Under the Software Environment > Startup Program heading, locate and list the following: Program and User Name
-Svar: 
+Svar: program - onedrive, security health and user name - DESKTOP-V5LPSHL\Ugandan Chungus, Public
 ### Step 3, liður b.
 
 #### What are the startup options?
-Svar: 
+Svar: Normal startup, Diagnostic startup and Selective startup
 ### Step 3, liður d.
 
 #### Can you enable and disable services at this tab?
-Svar: 
+Svar: Yes
 ### Step 3, liður f.
 
 #### What can you do in this tab? 
-Svar: 
+Svar: Use all sorts of tools to help you fix problems
 #### List 10 items and what can it be used for?
-Svar: 
+Svar: Task manager - view running programs and processes, Programs - Launch, add or remove programs, Internet options - view internet properties, Event viewer - view monitoring and troubleshooting messages, Computer Management - Configure computer settings, Registry editor - change windows registry, remote assistance - get help from someone over the internet, system restore - restore pc to earlier state, resource monitor - see performance and resource use of computer, performance monitor - see performance of computer,
+
 ### Step 3, liður c.
 
 #### What does this tool report?
-Svar: 
+Svar: Detailed information on DirectX components and drivers
 ### Step 3, liður d.
 
 #### What information is listed on this page?
-Svar: 
+Svar: Info about the display and its drivers
 ### Step 3, liður e.
 
 #### What information is listed on this page?
-Svar: 
+Svar: Info about the audio device and its driver
 ### Step 3, liður f.
 
 #### What information is listed on this page?
-Svar: 
+Svar: Info about input devices
 ### Reflection spurningar í lok kaflans.
 
 #### Why would it be beneficial to turn off a service in the system configuration?
-Svar: 
+Svar: Ef það er að valda vandamálum
 #### When would you use the startup tab of the system configuration tool?
-Svar: 
+Svar: Ef eitthvað er að trufla tölvuna í startupi eða hægja á henni
 ## 6.1.5.4 Common CLI Commands in Windows 10
 
 ### Step 2, liður a.
 Kynnið ykkur hvernig hægt er að gera [töflur](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables) í MarkDown og útbúið svo töflu svipaða þeirri sem er í verkefninu og fyllið svo út í Function dálkinn. 
+| Command | Function |
+| ------- | -------- |
+| CD    |  breytir um directory |
+| chkdsk | skoðar status á diski |
+| copy | afritar |
+| del | eyðir skrám |
+| dir | sýnir lista af skrám |
+| diskpart | sýnir eiginleika á partitioni |
+| exit | fer úr cmd |
+| format | formatar disk |
+| gpresult | sýnir group policy upplýsingar |
+| md | gerir directory |
+| tasklist | sýnir öll keyrandi tasks |
+| rd | eyðir directory |
+| robocopy | afritar skrár og möppur |
+| shutdown | slekkur á vélinni |
+| xcopy | afritar möppur og skráartré |
 
 ### Step 3, liður a.
 
 #### What is the current directory?
-Svar: 
+Svar: C: \Users\Ugandan Chungus
 ### Step 3, liður e.
 
 #### Which folder are you in now?
-Svar: 
+Svar: Ugandan Chungus
 ### Step 3, liður g.
 
 #### What is your directory now?
-Svar: 
+Svar: ITEfolder3
 #### What would be the current directory if you issue this command at C:\Users\ITEfolder3?
-Svar: 
+Svar: sama og áður
 ### Reflection spurning í lok kaflans.
 
 #### What are the advantages of using CLI vs. GUI?
-Svar: 
+Svar: Maður hefur meiri stjórn á því sem maður er að gera
 ## 6.1.5.6 System Utilities in Windows 10
 
 ### Step 3, liður a.
